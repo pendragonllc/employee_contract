@@ -1,14 +1,73 @@
-How do you feel about the following practices?
-Are you willing to come to an agreement with the Employee to assure such practices are not implemented?
 
-  1. keeping and distributing video/audio/fingerprinting/behavioral recordings of the Employee
-  2. sharing Employee information with other companies
-  3. preventing immediate Employee leave for emerging family illness
+Q: What is your salary budget range?
 
-Would the job position require the Employee to remain available via internet communication or work after hours?
-If so, how often?
+  Do you match Employee pay to inflation? How frequently each year?
+  How are raises handled?
+  How is performance feedback handled?
 
-How well does Company insurance cover rejuvenation practices such as massage therapy, chiropractors, personal trainers, or councilors? 
-Would you be willing to work with the Employee to find a balance between health investment allowances and pay?
 
-What is your stance on transgender Employees who wish for their birth name and other information to be kept confidential?
+Q: What benefits are offered?
+  Medical?
+  Dental?
+  Eye?
+
+  Is a retirement plan offered?
+  What is the matching limit?
+
+
+Q: Does the Company insurance help cover mental and physical therapies and rejuvenation practices such as massage therapy, chiropractors, personal trainers, or councilors?
+
+
+Q: How are vacation days, holidays, sick days, and other PTO handled?
+  How much PTO is offered?
+  As opposed to 'unlimited PTO', I would like to set vacation days in the employment agreement. Would this be alright with you?
+
+
+Q: How many hours a week of work is expected? How often is overtime expected?
+
+  Would you be willing to redeem overtime work with PTO or additional pay?
+
+
+Q: Would this position require Employee availability after hours?
+
+  How often?
+
+
+Q: Would the Company be open to equity and raising an Employee to co-founder status for certain work, performance, or achievements?
+
+  A certain sales figure?
+  Working a certain number of hours?
+  Being the leader of a project?
+  Being the primary programmer of an application?
+  A trade-off in base salary?
+
+
+Q: Could the Employee negotiate equity per month's work?
+
+
+Q: What is the range of hours per week spent in meetings?
+
+  It is in the Employee's interests to spend as much time putting experience toward their skills as possible, therefore time spent in meetings (and not writing code or architecting systems) should be limited to 8 hours per week, with one day of PTO given if the week has more meetings.
+
+
+Q: How do you handle new and reassigning projects to Employees?
+
+  Employees who have projects switched on them are put at a disadvantage in comparison to Employees who stay on a project. If team members feel they are too busy to transfer knowledge or if the experienced team members keep assigning the newcomer low-skill work, then the newcomer will stay at a low skill level. The newcomer will be missing opportunities to display their knowledge and get rewarded. I would like to set in my employee agreement that if reassignment happens to me, I will get 8 hours of dedicated training per week from an experienced Employee to catch up to my peers. Would this be alright with you?
+
+
+Q: How do you feel about analyzing the data of employees for purposes other than learning how to bill clients?
+
+  I am not comfortable with certain practices and would like to have written exclusion in my employment agreement for the following practices:
+
+  1. Keeping and distributing video/audio/fingerprinting/behavioral recordings of the Employee
+  2. Sharing Employee information with other companies
+
+
+Q: How do you handle patents and inventions?
+
+  I would like to set in my employment agreement that management is not to ask me of my ideas in order to patent them, unless I am offered compensation in the form of equity. Would this be alright with you?
+
+
+Q: Are programs used to monitor Employee computer activity?
+
+  I consider myself to be someone who gets tasks done better without feeling like someone is looking over my shoulder. I would like to set in my employment agreement my omission from this practice. Would you agree?
